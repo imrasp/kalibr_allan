@@ -7,6 +7,11 @@
 # Installation
 ```
 cd ~/catkin_ws/src
-git clone git@github.com:ethz-asl/kindr.git
+git clone git@github.com:imrasp/kalibr_allan.git
 catkin_make_isolated -C ~/catkin_ws
+```
+source
+```
+cd ~/catkin_ws/
+source devel_isolated/setup.bash
 ```
