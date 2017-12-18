@@ -20,3 +20,5 @@ source devel_isolated/setup.bash
 ```
 rosrun bagconvert bagconvert imu.bag /imu0
 ```
+
+**source command should be complete with the same terminal**
