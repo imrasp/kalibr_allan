@@ -15,3 +15,8 @@ source
 cd ~/catkin_ws/
 source devel_isolated/setup.bash
 ```
+
+# Run
+```
+rosrun bagconvert bagconvert imu.bag /imu0
+```
