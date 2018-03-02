@@ -15,6 +15,10 @@ source
 cd ~/catkin_ws/
 source devel_isolated/setup.bash
 ```
+or
+```
+source ~/catkin_ws/devel_isolated/setup.bash
+```
 
 # Run
 ```
